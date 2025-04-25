@@ -29,6 +29,11 @@
 ## Project setup
 
 ```bash
+# running mongodb & rabbitmq in docker
+$ docker compose up -d 
+```
+
+```bash
 $ npm install
 ```
 
